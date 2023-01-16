@@ -1,2 +1,2 @@
-# 23_Raditra_Website
+# 23_Raditya_Website
 Kumpulan portofolio project pemrograman Website
